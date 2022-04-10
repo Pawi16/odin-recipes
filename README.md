@@ -1,6 +1,2 @@
 # odin-recipes
-the project is about making recipes website using fundamental html skill which have 
-
-boilerplate 
-list 
-link
+the project is about making recipes website using basic html skill 
